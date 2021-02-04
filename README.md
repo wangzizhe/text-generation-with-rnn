@@ -4,7 +4,7 @@
 
 ## Overview
 
-In this notebook, I'll construct a character-level LSTM with PyTorch. The network will train character by character on some text, then generate new text character by character. As an example, I will train on Anna Karenina. **This model will be able to generate new text based on the text from the book!**
+I constructed a character-level LSTM with PyTorch. The network will train character by character on some text, then generate new text character by character. As an example, I trained on Anna Karenina. **This model will be able to generate new text based on the text from the book!**
 
 <img src="assets/anna_karenina.jpg" />
 
@@ -43,8 +43,9 @@ their
 chorite. H
 ```
 
-Code is in the file `Character_Level_RNN_Solution.ipynb`
-Programmed using Jupyter Notebook
+Programmed using Jupyter Notebook.
+
+Code is saved in the `.ipynb` file.
 
 ## Reflection
 
