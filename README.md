@@ -53,7 +53,7 @@ Code is saved in the `.ipynb` file.
 
 #### Recurrent Neural Network (RNN)
 
-[RNN](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+[RNN on Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 
 A **recurrent neural network** (**RNN**) is a class of artificial neural networks where connections between nodes form a directed graph along a temporal sequence. This allows it to exhibit temporal dynamic behavior.
 
@@ -61,7 +61,7 @@ A **recurrent neural network** (**RNN**) is a class of artificial neural network
 
 #### Long Short-Term Memory
 
-[LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)
+[LSTM on Wikipedia](https://en.wikipedia.org/wiki/Long_short-term_memory)
 
 **Long short-term memory** (**LSTM**) is an artificial recurrent neural network (RNN) architecture used in the field of deep learning.
 
