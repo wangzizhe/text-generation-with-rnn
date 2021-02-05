@@ -49,6 +49,30 @@ Code is saved in the `.ipynb` file.
 
 ## Reflection
 
+### Principle of LSTM
+
+#### Recurrent Neural Network (RNN)
+
+[RNN](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+
+A **recurrent neural network** (**RNN**) is a class of artificial neural networks where connections between nodes form a directed graph along a temporal sequence. This allows it to exhibit temporal dynamic behavior.
+
+<img src="assets/rnn.png" />
+
+#### Long Short-Term Memory
+
+[LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)
+
+**Long short-term memory** (**LSTM**) is an artificial recurrent neural network (RNN) architecture used in the field of deep learning.
+
+<img src="assets/lstm.png" />
+
+The Long Short-Term Memory (LSTM) cell can process data sequentially and keep its hidden state through time.
+
+A common LSTM unit is composed of a **cell**, an **input gate**, an **output gate** and a **forget gate**. 
+
+<img src="assets/structure_lstm.png" />
+
 ### Network Architecture
 
 <img src="assets/charRNN@0.5x.png" />
